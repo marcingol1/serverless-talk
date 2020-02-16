@@ -1,0 +1,6 @@
+service: nextjs-app
+app: serverless-talk
+org: marcingol1
+
+myApp:
+  component: serverless-next.js
