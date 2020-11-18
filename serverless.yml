@@ -2,5 +2,5 @@ service: nextjs-app
 app: serverless-talk
 org: marcingol1
 
-myNextApplication:
+test:
   component: '@sls-next/serverless-component@1.18.0'

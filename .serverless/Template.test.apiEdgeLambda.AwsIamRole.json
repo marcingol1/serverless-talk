@@ -1,6 +1,6 @@
 {
-  "name": "suwo0y-cuuhw7f",
-  "arn": "arn:aws:iam::438086634750:role/suwo0y-cuuhw7f",
+  "name": "suwo0y-uk9bab",
+  "arn": "arn:aws:iam::438086634750:role/suwo0y-uk9bab",
   "service": [
     "edgelambda.amazonaws.com",
     "lambda.amazonaws.com"
@@ -19,7 +19,7 @@
       },
       {
         "Effect": "Allow",
-        "Resource": "arn:aws:s3:::suwo0y-3eslbg/*",
+        "Resource": "arn:aws:s3:::suwo0y-mov4oq/*",
         "Action": [
           "s3:GetObject",
           "s3:PutObject"

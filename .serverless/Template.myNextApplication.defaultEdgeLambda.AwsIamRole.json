@@ -2,8 +2,8 @@
   "name": "suwo0y-26axoyi",
   "arn": "arn:aws:iam::438086634750:role/suwo0y-26axoyi",
   "service": [
-    "lambda.amazonaws.com",
-    "edgelambda.amazonaws.com"
+    "edgelambda.amazonaws.com",
+    "lambda.amazonaws.com"
   ],
   "policy": {
     "Version": "2012-10-17",

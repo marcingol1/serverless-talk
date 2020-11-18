@@ -1,5 +1,5 @@
 {
   "components": {
-    "myNextApplication": "/Users/marcingol/.serverless/components/registry/npm/@sls-next/serverless-component@1.18.0/node_modules/@sls-next/serverless-component"
+    "test": "/Users/marcingol/.serverless/components/registry/npm/@sls-next/serverless-component@1.18.0/node_modules/@sls-next/serverless-component"
   }
 }
